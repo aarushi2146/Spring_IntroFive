@@ -56,18 +56,18 @@ Introducing **DTO (Data Transfer Object)** and **Model** in the AddressBook App.
 **Objective** 🎯:  <br>
 Introduce the **Services Layer** in the AddressBook App. 🏢<br>
 
-- In UC1, the controller was directly creating and returning the Model. 📝<br>
+- In UC4, the controller was directly creating and returning the Model. 📝<br>
 - The **Services Layer** will now handle the **business logic** and manage the **Model**. 💼<br>
 - Use the **@Autowired** annotation to inject the **Services Object** into the Controller. 🧩<br><br>
 
 ---<br><br>
 
-### **UC 3 - Ability for Services Layer to Store Data** 💾<br><br>
+### **UC 5 - Ability for Services Layer to Store Data** 💾<br><br>
 
 **Objective** 🎯:  <br>
 Enable the **Services Layer** to store **AddressBook data**. 📚<br>
 
-- In UC2, the Services Layer did not store, update, or delete data. This will change in UC3. 🔄<br>
+- In UC5, the Services Layer did not store, update, or delete data. This will change in UC3. 🔄<br>
 - The **Services Layer** will store data **in-memory** as a List. 🧠<br>
 - Eventually, the data will be persisted into a **database** (MySQL) 💾 as you move forward.<br>
 - Ensure that all **CURL calls** work: ✅<br>
