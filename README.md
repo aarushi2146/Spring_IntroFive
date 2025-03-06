@@ -2,7 +2,7 @@
 
 **Date:** 📅 _March 6, 2025_<br><br>
 
----****<br><br>
+---<br><br>
 
 ## 🗓️ **Section 1: Address Book App Setup** 🔧<br><br>
 
