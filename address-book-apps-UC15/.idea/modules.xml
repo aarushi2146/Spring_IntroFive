@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/address-book-apps/address-book-apps.iml" filepath="$PROJECT_DIR$/address-book-apps/address-book-apps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/address-book-apps-UC16.iml" filepath="$PROJECT_DIR$/.idea/address-book-apps-UC16.iml" />
     </modules>
   </component>
